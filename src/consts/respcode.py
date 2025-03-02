@@ -1,0 +1,12 @@
+
+
+SUCCESS = 200, '成功!'
+
+VALIDATE_PARAMS_ERROR = 1000001, '参数验证错误！'
+
+SERVER_RESOURECE_ERROR = 1000002, '服务器资源不足!'
+
+
+
+
+
